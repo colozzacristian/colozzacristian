@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
-<h3 align="center">an Italian student</h3>
 
 - 🌱 I’m currently learning **Rust**
 
