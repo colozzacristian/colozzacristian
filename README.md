@@ -19,4 +19,4 @@
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="rustacean-orig-noshadow.svg" alt="rust" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Other stuff:</h3>
-<script src="https://tryhackme.com/badge/2851262"></script>
+<script> src="https://tryhackme.com/badge/2851262"></script>
