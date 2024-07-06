@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **github.defy765@passinbox.com**
 
